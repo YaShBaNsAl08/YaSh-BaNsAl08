@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yashbansal08
+- 👋 Hi, I’m Yash Bansal
 - 👀 I’m interested in coding.
-- I have learnt Html5,Css3,C,C++,javasript,Mysql.
+- I have learnt Html5,Css3,C,C++,javasript, Python,Angular(2 or above), Typescript
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 My mail I'd is yashbansaljuly8@gmail.com
